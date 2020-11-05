@@ -1,8 +1,8 @@
-# node_controlFlow_inside_EJS_example
+# node_ejs_CSS_ToDoList_example
 
-Super simple example of passing data using ejs.
+Super simple example of a todo list.
 
-Simply a todo list that updates with new entries as they are added.
+Uses CSS and passes data to the server.
 
 # Notes
 Do not forget to install node, npm, express, nodemon, and run npm i (which installs the packages needed by the repository) to make things work.
